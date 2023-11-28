@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583316137600",
+    "project_id": "crud-fee52",
+    "storage_bucket": "crud-fee52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583316137600:android:bacad80a6f905b3b7c2865",
+        "android_client_info": {
+          "package_name": "com.example.pert12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbPyQkwnG8XaHjbiKck-6KO-V43rXz6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
